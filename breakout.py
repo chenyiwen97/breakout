@@ -5,7 +5,6 @@ import pylab
 import random
 import csv
 import time
-import numpy as np
 from collections import deque
 from datetime import datetime
 from copy import deepcopy
