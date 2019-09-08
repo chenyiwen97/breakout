@@ -4,7 +4,6 @@ import torch
 import pylab
 import random
 import csv
-import time
 from collections import deque
 from datetime import datetime
 from copy import deepcopy
